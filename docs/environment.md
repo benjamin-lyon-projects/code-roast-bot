@@ -1,12 +1,3 @@
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-BSD--3--Clause-green)
-![Security Audited](https://img.shields.io/badge/security-a%2B-brightgreen)
-
-# Code Roast Bot
-
-Code Roast Bot is a terminal tool that humorously and securely roasts your Python code using GPT-4. It detects security red flags, hardcoded secrets, and code crimes — then flames them with sarcasm and style.
-
-
 # 🔐 Environment Configuration (`.env`)
 
 To authenticate with the OpenAI API, `code-roast-bot` uses a `.env` file to load your API key securely.
